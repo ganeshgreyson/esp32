@@ -1,4 +1,4 @@
-Doc_Tutorial
+readthedocs-breathe
 ===================
 
 Contents:
@@ -6,9 +6,8 @@ Contents:
 .. toctree::
    :maxdepth: 3
 
-.. doxygenfunction:: uart_open
-.. doxygenfunction:: uart_rd
-   
+.. doxygenclass:: Nutshell
+   :members:
 
 Indices and tables
 ==================
@@ -16,3 +15,4 @@ Indices and tables
 * :ref:`genindex`
 * :ref:`modindex`
 * :ref:`search`
+
