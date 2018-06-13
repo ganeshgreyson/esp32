@@ -7,6 +7,7 @@ Contents:
    :maxdepth: 3
 
 .. doxygenfunction:: uart_open
+.. doxygenfunction:: uart_rd
 
 Indices and tables
 ==================
