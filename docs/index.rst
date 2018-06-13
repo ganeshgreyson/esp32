@@ -6,8 +6,7 @@ Contents:
 .. toctree::
    :maxdepth: 3
 
-.. doxygenclass:: Nutshell
-   :members:
+.. doxygenfunction:: uart_open
 
 Indices and tables
 ==================
